@@ -37,7 +37,7 @@ how to download?
 ![image](https://github.com/jarmelio/fps-booster/assets/143315727/9771fd4e-a05e-41a3-ab99-c8415d758d28)
 
 
-6. click on the "start fps booster" button or the green one
+6. click on the boost fps button
 
 7. and boom congrats the fps booster is now working
 
